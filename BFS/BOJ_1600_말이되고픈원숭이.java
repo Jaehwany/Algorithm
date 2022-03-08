@@ -6,6 +6,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 //Gold 4 
+//메모리:88224KB 시간:560ms
 public class BOJ_1600_말이되고픈원숭이 {
 	//변수 선언
 	static int K,M,N;
