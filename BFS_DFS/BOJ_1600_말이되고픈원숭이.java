@@ -5,7 +5,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class G4_BOJ_1600_말이되고픈원숭이 {
+//Gold 4
+public class BOJ_1600_말이되고픈원숭이 {
 	//변수 선언
 	static int K,M,N;
 	static int map[][];
