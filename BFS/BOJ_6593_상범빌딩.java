@@ -7,6 +7,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+//Gold 5 
+//메모리:16244KB 시간:148ms
 public class BOJ_6593_상범빌딩 {
 	// 변수 선언
 	static int floor, R, C;
