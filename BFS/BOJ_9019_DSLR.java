@@ -7,6 +7,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+//Gold 4 
+//메모리:297096KB 시간:4440ms
 public class BOJ_9019_DSLR {
 	//Point 클래스 선언
 	static class Point{
