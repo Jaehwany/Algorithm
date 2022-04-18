@@ -1,4 +1,3 @@
-package samsung;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,6 +8,8 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
+//Gold 3
+//메모리 : 22732KB, 시간 : 172ms
 public class BOJ_1_16236_아기상어 {
 	static int N;
 	static int map[][];
